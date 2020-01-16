@@ -1,12 +1,12 @@
-# _Pet Blog_
+# _My First Website_
 
-#### _*A blog about my pet*, *January 14, 2020*_
+#### _*An HTML practice website*, *January 14, 2020*_
 
 #### By _**Tim Klaus**_
 
 ## Description
 
-_This is a blog about my pet cactus, Jim._
+_This is an HTML practice website created as coursework for Epicodus' Into to Programming Part-time evening class._
 
 ## Setup/Installation Requirements
 
